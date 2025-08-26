@@ -95,11 +95,11 @@ export const workData = [
 export const serviceData = [
     { icon: assets.web_icon, title: 'Program Director - Coding Pals', description: '2021-2024', link: '' },
     { icon: assets.mobile_icon, title: 'Instructor - Kumon', description: '2022-2024', link: '' },
-    { icon: assets.web_icon, title: 'Software Engineer Intern - TranQuility Inc.', description: 'May 2025 - August 2025', link: '' }
-];
+    
+]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript, React Js, Next Js, Python, C++' },
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js, Python, C++' },
     { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BSE - Software Engineering' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'CryptoLens' }
 ];

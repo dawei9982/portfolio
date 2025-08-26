@@ -33,7 +33,7 @@ const Header = () => {
     whileInView={{opacity: 1}} 
     transition={{duration: 0.6, delay: 0.7}}
     className='max-w-2xl mx-auto font-Ovo'>
-       I am an aspiring software developer, seeking Winter 2026 Internships. 
+       I am an aspiring software developer, seeking Winter 2026 Internship. 
     </motion.p>
     <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
         <motion.a 
