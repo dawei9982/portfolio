@@ -95,7 +95,8 @@ export const workData = [
 export const serviceData = [
     { icon: assets.web_icon, title: 'Program Director - Coding Pals', description: '2021-2024', link: '' },
     { icon: assets.mobile_icon, title: 'Instructor - Kumon', description: '2022-2024', link: '' },
-    { icon: assets.web_icon, title: 'Software Engineer Intern - TranQuility Inc.', description: 'May 2025 - August 2025', link: '' }
+    { icon: assets.web_icon, title: 'Software Engineer Intern (Full-stack) - TranQuility Inc.', description: 'May 2025 - August 2025', link: '' },
+    { icon: assets.web_icon, title: 'Software Engineer Intern (Product Development) - Ford Motor Company', description: 'January 2026 - April 2026', link: '' }
 ];
 
 export const infoList = [

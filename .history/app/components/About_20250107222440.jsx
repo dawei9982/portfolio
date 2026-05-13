@@ -39,14 +39,14 @@ const About = ({isDarkMode}) => {
         transition={{duration: 0.6, delay: 0.8}}
         className='flex-1'>
             <p className='mb-10 max-w-2xl font-Ovo text-sm'>
-                Hi! I am a second-year Software Engineering student at the University of Waterloo. 
+                Hi! I am a first-year Software Engineering student at the University of Waterloo. 
                 I am passionate about programming, software development, and robotics. 
                 As a dedicated software engineer-in-progress, I am constantly seeking to expand my 
                 skills and knowledge. Whether through coursework, personal projects, or hands-on 
                 experiences, I strive to stay at the forefront of technological advancements. My journey 
                 is driven by a passion for creating impactful solutions, and I am eager to apply my skills 
                 to tackle complex challenges. Beyond academics, I enjoy playing sports such as badminton, 
-                volleyball, and basketball, and cooking and playing VALORANT.
+                volleyball, and basketball, and cooking and playing video games.
             </p>
 
             <motion.ul 
