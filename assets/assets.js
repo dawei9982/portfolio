@@ -35,6 +35,9 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
+import tranquility_logo from './tranquility_logo.jpg';
+import ford_logo from './ford_motor_company_logo.jpg';
+import td_bank_logo from './td_logo.jpg';
 
 export const assets = {
     user_image,
@@ -73,7 +76,10 @@ export const assets = {
     right_arrow,
     send_icon,
     right_arrow_bold,
-    right_arrow_bold_dark
+    right_arrow_bold_dark,
+    tranquility_logo,
+    ford_logo,
+    td_bank_logo
 };
 
 export const workData = [
@@ -93,10 +99,9 @@ export const workData = [
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Program Director - Coding Pals', description: '2021-2024', link: '' },
-    { icon: assets.mobile_icon, title: 'Instructor - Kumon', description: '2022-2024', link: '' },
-    { icon: assets.web_icon, title: 'Software Engineer Intern (Full-stack) - TranQuility Inc.', description: 'May 2025 - August 2025', link: '' },
-    { icon: assets.web_icon, title: 'Software Engineer Intern (Product Development) - Ford Motor Company', description: 'January 2026 - April 2026', link: '' }
+    { icon: assets.tranquility_logo, title: 'Software Engineer Intern (Full-stack) - TranQuility Inc.', description: 'May 2025 - August 2025', link: '' },
+    { icon: assets.ford_logo, title: 'Software Engineer Intern (Product Development) - Ford Motor Company', description: 'January 2026 - April 2026', link: '' },
+    { icon: assets.td_bank_logo, title: 'TD Bank - Software Engineer Intern', description: 'September 2026 - Present', link: '' }
 ];
 
 export const infoList = [
